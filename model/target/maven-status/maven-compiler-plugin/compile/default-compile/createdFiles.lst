@@ -1,0 +1,4 @@
+com\sport\model\Student.class
+com\sport\model\Teacher.class
+com\sport\model\AbstractUser.class
+com\sport\model\Admin.class
